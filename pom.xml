@@ -23,6 +23,7 @@
         <module>shiro-5.4</module>
         <module>shiro-5.5</module>
         <module>shiro-6</module>
+        <module>shiro-6.4</module>
     </modules>
 
 
