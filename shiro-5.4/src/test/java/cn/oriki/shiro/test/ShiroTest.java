@@ -35,7 +35,8 @@ public class ShiroTest {
 
     /**
      * 获取Subject
-     * 
+     *  
+     *
      * @return
      */
     private Subject getSubject() {
@@ -54,7 +55,8 @@ public class ShiroTest {
 
     /**
      * 获取Realm域
-     * 
+     *  
+     *
      * @return
      */
     private Realm getRealm() {
@@ -68,7 +70,8 @@ public class ShiroTest {
 
     /**
      * 获取校验用Matcher，保证Matcher使用的加密方式和自定义Realm中使用的加密方式一致
-     * 
+     *  
+     *
      * @return
      */
     private CredentialsMatcher getCredentialsMathcer() {
@@ -80,7 +83,8 @@ public class ShiroTest {
 
     /**
      * 获取加密功能的PasswordService，默认使用DefaultPasswordService
-     * 
+     *  
+     *
      * @return
      */
     private PasswordService getPasswordService() {
