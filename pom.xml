@@ -12,6 +12,7 @@
         <module>shiro-2.1</module>
         <module>shiro-2.2</module>
         <module>shiro-2.4</module>
+        <module>shiro-2.5</module>
     </modules>
 
 
