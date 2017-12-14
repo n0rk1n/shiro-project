@@ -26,6 +26,7 @@
         <module>shiro-6.4</module>
         <module>shiro-7.1</module>
         <module>shiro-7.2</module>
+        <module>shiro-9.1</module>
     </modules>
 
 
